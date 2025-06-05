@@ -1,12 +1,12 @@
 # infrastructure-Automation-on-AWS-wit-Terraform-and-Ansible
 
-# 🚀 Infrastructure Automation on AWS using Terraform and Ansible
+# Infrastructure Automation on AWS using Terraform and Ansible
 
 This project demonstrates how to automate infrastructure provisioning using *Terraform* and configure servers using *Ansible* on AWS Cloud. It provisions an EC2 instance, sets up SSH and HTTP access, and installs *Docker* and *Nginx* on the server.
 
 ---
 
-## 📌 Tech Stack
+##  Tech Stack
 
 | Tool        | Purpose                                |
 |-------------|----------------------------------------|
@@ -17,7 +17,7 @@ This project demonstrates how to automate infrastructure provisioning using *Ter
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```bash
 infra-automation/
